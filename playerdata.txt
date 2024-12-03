@@ -1,0 +1,205 @@
+Format:
+Namn (max 20 tkn) / sannolikhet att vinna sin serve (0-1)
+antal vunna matcher / antal spelade matcher
+Stats from season 2024:
+==============================================================
+J Sinner
+0.71
+120
+155
+G Dimitrov
+0.71
+52
+74
+A De Minaur
+0.65
+49
+70
+A Zverev
+0.7
+81
+116
+C Alcaraz
+0.68
+60
+86
+M Berrettini
+0.7
+30
+43
+D Medvedev
+0.64
+48
+69
+T Paul
+0.65
+45
+65
+T Fritz
+0.7
+52
+76
+H Hurkacz
+0.69
+40
+59
+S Tsitsipas
+0.67
+46
+68
+C Ruud
+0.67
+54
+81
+H Rune
+0.67
+46
+70
+N Djokovic
+0.69
+40
+61
+J Draper
+0.67
+39
+62
+K Khachanov
+0.66
+37
+59
+A Rublev
+0.68
+43
+69
+B Shelton
+0.69
+41
+66
+S Korda
+0.66
+31
+50
+U Humbert
+0.67
+39
+63
+J Lehecka
+0.66
+31
+51
+J Mensik
+0.63
+26
+43
+T Machac
+0.63
+34
+57
+A Fils
+0.65
+41
+69
+J Struff
+0.66
+29
+49
+L Musetti
+0.64
+40
+68
+G Mpetshi
+0.72
+17
+29
+J Thompson
+0.65
+35
+60
+F Tiafoe
+0.66
+32
+57
+F Auger
+0.66
+32
+57
+A Popyrin
+0.66
+29
+52
+F Cobolli
+0.63
+36
+65
+R Bautista
+0.63
+25
+46
+A Tabilo
+0.66
+32
+59
+B Nakashima
+0.68
+27
+50
+S Baez
+0.61
+31
+58
+M Arnaldi
+0.62
+29
+55
+T Griekspoor
+0.67
+32
+61
+F Cerundolo
+0.63
+34
+65
+M Giron
+0.64
+28
+54
+C Norrie
+0.64
+21
+41
+A Bublik
+0.63
+26
+51
+T Etcheverry
+0.64
+31
+61
+N Borges
+0.63
+25
+50
+A Michelsen
+0.63
+31
+63
+Z Zhang
+0.63
+28
+58
+L Darderi
+0.62
+24
+50
+N Jarry
+0.65
+23
+48
+P Martinez
+0.6
+23
+51
+M Navone
+0.58
+23
+62
