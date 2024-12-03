@@ -106,7 +106,7 @@ def manual_match(p1_index, p2_index):
 
 
 class SelectionWindow:
-    # class for creating selection window for player and delay choice
+    # class for creating selection window for player and delay choice (GUI)
     def __init__(self, sorted_players):
         # initializes selection window for player and delay choice
         self.window = tk.Tk()
